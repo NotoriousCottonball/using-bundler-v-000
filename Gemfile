@@ -9,5 +9,5 @@ gem "sinatra"
 gem 'mail', '~> 2.6', '>= 2.6.3'
  
 
-  gem "pry", 
+  gem "pry", :group => "development"
 end
